@@ -8,11 +8,11 @@
 
 - Libs:
   
-   React-native-Shake & React-native-Torch
-   Icons do Google
-   StyleSheet
-   Hook useState
-   Hook useEffect
-   AddListener to RNShake
-   Lifecicly ReactJS
+  - React-native-Shake & React-native-Torch
+  - Icons do Google
+  - StyleSheet
+  - Hook useState
+  - Hook useEffect
+  - AddListener to RNShake
+  - Lifecicly ReactJS
    
